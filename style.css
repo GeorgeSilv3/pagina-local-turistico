@@ -5,6 +5,7 @@
 
 body{
     letter-spacing: 1px;
+    background-color: #f1c972;
 }
 p{
     color: #333333;
@@ -12,8 +13,11 @@ p{
 }
 
 main{
-    margin: 88px 80px;
-    width: auto;
+    background-color: #f3e6bc;
+    margin: 80px auto 10px auto;
+    width: 1220px;
+    border-radius: 24px;
+    padding: 30px;
 
 }
 h1, h2, h3{
@@ -123,6 +127,7 @@ ul li{
 footer{
     text-align: center;
     margin-bottom: 48px;
+    color: #5a3226;
 }
 
 i{
